@@ -1,4 +1,7 @@
-## Hi there 👋
+## bio
+
+ * Currently working in software development for Free Energy methods in drug discovery.
+ * If you have any questions about any of the software tools I work with, please just open an issue on the corresponding repo.
 
 <!--
 **pgbarletta/pgbarletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
